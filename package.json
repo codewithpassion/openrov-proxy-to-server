@@ -1,0 +1,17 @@
+{
+  "name": "proxy-to-orov-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "binaryjs": "^0.2.1",
+    "forever-monitor": "",
+    "socket.io": "^1.1.0",
+    "socket.io-client": "^1.3.7"
+  }
+}
